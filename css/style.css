@@ -60,6 +60,7 @@
 	left: 4px;
 	background-color: transparent;
 	border-radius: 20px;
+	transition: var(--default-transition);
   }
   .dark-mode .switcher .overlap-group-2
   {
@@ -70,6 +71,7 @@
 	left: 50px;
 	background-color: #7190FF;
 	border-radius: 20px;
+	transition: var(--default-transition);
   }
   .dark-mode .switcher .overlap-group-2 .moon
   {
@@ -223,6 +225,7 @@ header {
 	height: 48px;
 	background-color: #f5f5f6;
 	border-radius: 100px;
+	transition: var(--default-transition);
   }
   
   .switcher .overlap-group {
@@ -233,6 +236,7 @@ header {
 	left: 4px;
 	background-color: #ffd371;
 	border-radius: 20px;
+	transition: var(--default-transition);
   }
   
   .switcher .sunny {
